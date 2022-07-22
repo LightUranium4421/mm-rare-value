@@ -2,7 +2,7 @@
 If you want to see your value but are too lazy to calculate by hand
 
 IF YOU DONT PLAY MALACHITE MINES THIS PROGRAM IS OF NO USE TO YOU!
-
+Also have PYTHON (3.9+) INSTALLED(since i cant export for some reason)
 How to use:
 
 1: Find your rares(regular,super,ultra,insanely,gilded,event)
