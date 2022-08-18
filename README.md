@@ -13,7 +13,7 @@ How to use:
 
   3:Repeat until done!
 
-  Note: If you get a question and you dont have any rares that that question is asking of, put down 0, and do NOT leave it blank(causes errors!)
+  Note: If you get a question and you dont have any rares that the question is asking of, put down 0, and do NOT leave it blank(causes errors!)
   
   UPDATE LOG:
   
