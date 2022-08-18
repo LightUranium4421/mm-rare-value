@@ -17,10 +17,18 @@ How to use:
   
   UPDATE LOG:
   
+  
   1.1:
+  
   -Added seprate categories for each class of rarity
+  
   -Added gilded nevadaite
+  
   1.0.2
+  
   -Added gilded bassium
+  
   1.0.1
+  
   -Added perpetuum
+  
