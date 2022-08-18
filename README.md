@@ -14,3 +14,13 @@ How to use:
   3:Repeat until done!
 
   Note: If you get a question and you dont have any rares that that question is asking of, put down 0, and do NOT leave it blank(causes errors!)
+  
+  UPDATE LOG:
+  
+  1.1:
+  -Added seprate categories for each class of rarity
+  -Added gilded nevadaite
+  1.0.2
+  -Added gilded bassium
+  1.0.1
+  -Added perpetuum
